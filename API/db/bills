@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "60c950e47c7ed10e18335d05"
+  },
+  "operation": true,
+  "explanation": "工资",
+  "users": "8963",
+  "money": 3000,
+  "date": "2021-06-11",
+  "createDate": "2021-06-16 09:16:20",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c951017c7ed10e18335d06"
+  },
+  "operation": false,
+  "explanation": "还zy",
+  "users": "8963",
+  "money": -500,
+  "date": "2021-06-14",
+  "createDate": "2021-06-16 09:16:49",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c951387c7ed10e18335d07"
+  },
+  "operation": true,
+  "explanation": "招商原本",
+  "users": "8963",
+  "money": 166,
+  "date": "2021-06-11",
+  "createDate": "2021-06-16 09:17:44",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c951487c7ed10e18335d08"
+  },
+  "operation": false,
+  "explanation": "地铁",
+  "users": "8963",
+  "money": -10,
+  "date": "2021-06-13",
+  "createDate": "2021-06-16 09:18:00",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c951687c7ed10e18335d09"
+  },
+  "operation": false,
+  "explanation": "午饭",
+  "users": "8963",
+  "money": -21.7,
+  "date": "2021-06-15",
+  "createDate": "2021-06-16 09:18:32",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c9517d7c7ed10e18335d0a"
+  },
+  "operation": false,
+  "explanation": "牙齿",
+  "users": "8963",
+  "money": -1000,
+  "date": "2021-06-15",
+  "createDate": "2021-06-16 09:18:53",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c951b77c7ed10e18335d0b"
+  },
+  "operation": true,
+  "explanation": "支付宝余额",
+  "users": "8963",
+  "money": 179.48,
+  "date": "2021-06-16",
+  "createDate": "2021-06-16 09:19:51",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c952237c7ed10e18335d0c"
+  },
+  "operation": true,
+  "explanation": "三好",
+  "users": "8963",
+  "money": 150,
+  "date": "2021-06-10",
+  "createDate": "2021-06-16 09:21:39",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c952aa7c7ed10e18335d0d"
+  },
+  "operation": false,
+  "explanation": "美春生日",
+  "users": "8963",
+  "money": -8.88,
+  "date": "2021-06-10",
+  "createDate": "2021-06-16 09:23:54",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c952bf7c7ed10e18335d0e"
+  },
+  "operation": false,
+  "explanation": "电池",
+  "users": "8963",
+  "money": -6.8,
+  "date": "2021-06-10",
+  "createDate": "2021-06-16 09:24:15",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c952f07c7ed10e18335d0f"
+  },
+  "operation": false,
+  "explanation": "午饭-煎饼",
+  "users": "8963",
+  "money": -17,
+  "date": "2021-06-11",
+  "createDate": "2021-06-16 09:25:04",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c953177c7ed10e18335d10"
+  },
+  "operation": false,
+  "explanation": "门禁卡",
+  "users": "8963",
+  "money": -5,
+  "date": "2021-06-13",
+  "createDate": "2021-06-16 09:25:43",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c953697c7ed10e18335d11"
+  },
+  "operation": false,
+  "explanation": "牛杂包",
+  "users": "8963",
+  "money": -36,
+  "date": "2021-06-13",
+  "createDate": "2021-06-16 09:27:05",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c953817c7ed10e18335d12"
+  },
+  "operation": false,
+  "explanation": "滴滴",
+  "users": "8963",
+  "money": -11.7,
+  "date": "2021-06-13",
+  "createDate": "2021-06-16 09:27:29",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c953b87c7ed10e18335d13"
+  },
+  "operation": false,
+  "explanation": "拼多多-纸巾",
+  "users": "8963",
+  "money": -7.9,
+  "date": "2021-06-14",
+  "createDate": "2021-06-16 09:28:24",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c953d37c7ed10e18335d14"
+  },
+  "operation": false,
+  "explanation": "拼多多-鱼仔",
+  "users": "8963",
+  "money": -22.9,
+  "date": "2021-06-14",
+  "createDate": "2021-06-16 09:28:51",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c953f87c7ed10e18335d15"
+  },
+  "operation": false,
+  "explanation": "便利店-纸巾",
+  "users": "8963",
+  "money": -11.9,
+  "date": "2021-06-14",
+  "createDate": "2021-06-16 09:29:28",
+  "__v": 0
+}]
